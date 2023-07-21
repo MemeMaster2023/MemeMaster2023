@@ -1,0 +1,47 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Implementation of the ServicePayer",
+			"kind": "dev",
+			"methods": {},
+			"title": "ServicePayer",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"mainnet/0xec2859AB83568ba62E1364BBa1Eeb90Fb7910fb2/StandardERC20.sol": "ServicePayer"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"mainnet/0xec2859AB83568ba62E1364BBa1Eeb90Fb7910fb2/StandardERC20.sol": {
+			"keccak256": "0xd9fdddcb96db6e44b38f613af00ad2bb2f083c8360b67847c3c93419973b6c1f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b5447360fcefc1c2d8b247fdf8ba8593dbf5436157b46329811a85e0a29189af",
+				"dweb:/ipfs/QmWMDEa61HMzeD8UNzRvtrWBfybY6VG4cXZgVsRD5zE3MX"
+			]
+		}
+	},
+	"version": 1
+}
